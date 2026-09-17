@@ -14,6 +14,20 @@ Crud de PHP con login y roles de usuarios basico.
 - Los usuarios de tipo "Admin" tienen acceso total a todo el crud
 - Los usuarios de "Ventas" pueden ver la seccion de clientes pero no la de usuarios
 - Los usuarios de "Finanzas" solo pueden ver la informacion de los clientes
+## Credenciales
+
+Para poder acceder a este crud las credenciales son las siguientes:
+
+Admin: 
+`admin@correo.com` `admin123`
+
+Ventas: 
+`ventas@correo.com` `ventas123`
+
+Finanzas: 
+`finanzas@correo.com` `fin123`
+
+
 ## Instalacion
 
 Para poder usar este proyecto se tiene que colocar en la carpeta:
