@@ -1,4 +1,6 @@
 <?php
+
+//variables para la conexion local
 $host = '127.0.0.1';
 $db = 'crud_db';
 $username = 'root';
