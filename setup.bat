@@ -52,7 +52,7 @@ echo.
 echo Base de datos importada correctamente.
 echo.
 echo Copia (o mueve) esta carpeta del proyecto a C:\xampp\htdocs\
-echo Luego abre http://localhost/crud_php en el navegador.
+echo Luego abre http://localhost/crud-php en el navegador.
 echo.
 echo Asegurate de que Apache y MySQL esten iniciados desde el panel de XAMPP.
 echo ===============================================
