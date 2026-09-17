@@ -53,4 +53,12 @@ Y para linux tiene el archivo:
 ```
 Para poder ejecutar se le da permisos con chmod +x setup.sh y se ejecuta con ./setup.sh. este levanta el servidor con php -S localhost:8000.
 
+Para la conexion a la base de datos en el archivo "db.php" se encuntran la variables de conexion:
+```bash
+    $host = '127.0.0.1';
+    $db = 'crud_db';
+    $username = 'root';
+    $password = '';
+```
+
 NOTA: En caso de que los scripts de Instalacion no fuincionen se tendra que importar manualmente el archivo "crud_db.sql" a la base de datos.
